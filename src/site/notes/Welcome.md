@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-hey there
+hey there, website and shit
